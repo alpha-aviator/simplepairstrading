@@ -1,4 +1,4 @@
-# Quant Functions and Trading Backtest
+# Quant Trading Strategy Backtests
 
 1. To contain classes for storing securities data
 2. To contain methods to clean data
